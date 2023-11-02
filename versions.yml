@@ -76,7 +76,7 @@ modGroups:
       desc: Adds proximity voice chat to the server
       url: https://cdn.discordapp.com/attachments/1160602664023900250/1169545366371323955/automodpack-mc1.20.1-fabric-3.5.2.jar
     
-   - name: Lifesteal
+    - name: Lifesteal
       license: ARR
       homepage: https://modrinth.com/mod/simple-voice-chat
       desc: Adds proximity voice chat to the server
