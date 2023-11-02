@@ -58,7 +58,7 @@ modGroups:
       desc: Adds proximity voice chat to the server
       url: https://cdn.modrinth.com/data/1bokaNcj/versions/3l0ZI6yD/Xaeros_Minimap_23.8.4_Fabric_1.20.jar
     
-    - name: Boat Container
+    - name: Boatcontainer    
       license: ARR
       homepage: https://modrinth.com/mod/simple-voice-chat
       desc: Adds proximity voice chat to the server
